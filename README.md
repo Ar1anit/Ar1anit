@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Arianit%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Engineer+%40+Microsoft+%F0%9F%9A%80;GitHub+Copilot+%26+MCP+enthusiast+%F0%9F%A4%96;MLOps+%7C+LLM+Guardrails+%7C+DevOps;Infrastructure+as+Code+with+Terraform+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Solution+Architect+%40+Microsoft+%E2%98%81%EF%B8%8F;Building+with+LLMs+%26+Generative+AI+%F0%9F%A4%96;MLOps+%7C+LLM+Guardrails+%7C+RAG+%F0%9F%A7%A0;GitHub+Copilot+%26+MCP+enthusiast+%E2%9A%A1" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://img.shields.io/badge/📍%20Duisburg,%20Germany-1f2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/🏢%20Microsoft-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/☁️%20Cloud%20Solution%20Architect%20@%20Microsoft-0078D4?style=flat-square" />
   <img src="https://img.shields.io/badge/💼%20Open%20to%20opportunities-22c55e?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=Ar1anit&style=flat-square&color=36BCF7&label=Profile+views" />
 </p>
@@ -19,20 +19,33 @@
 
 ```yaml
 name: Arianit Sheholli
-company: "@microsoft"
+role: Cloud Solution Architect @ Microsoft
 location: Duisburg, Germany 🇩🇪
 currently_working_on:
-  - 🤖 GitHub Copilot × MCP developer experiences
-  - 🛡️ LLM guardrails & MLOps pipelines
-  - ⚙️ Terraform + GitHub Actions automation
-interests: [AI Engineering, Developer Productivity, Cloud, DevOps]
+  - 🧠 Designing LLM & GenAI solutions on Azure
+  - 🛡️ LLM guardrails, evaluation & MLOps pipelines
+  - 🔎 RAG, agents & Model Context Protocol (MCP)
+  - 🤖 GitHub Copilot developer experiences
+interests: [LLMs, Machine Learning, MLOps, AI Agents, Cloud Architecture]
 fun_fact: "I teach AI to write code, then review what it wrote 😄"
 ```
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,powershell,azure,terraform,docker,kubernetes,githubactions,git,github,vscode,linux&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,azure,docker,kubernetes,terraform,githubactions,git,linux&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 ### 🚀 Featured Projects
@@ -41,20 +54,20 @@ fun_fact: "I teach AI to write code, then review what it wrote 😄"
 <tr>
 <td width="50%" valign="top">
 
-#### ⛈️ [lab-ghcp-mcp-stormwatch](https://github.com/Ar1anit/lab-ghcp-mcp-stormwatch)
-GitHub Copilot × MCP hands-on developer lab in C#.
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
 #### 🛡️ [llm-guardrail-mlops](https://github.com/Ar1anit/llm-guardrail-mlops)
 MLOps workflow for building and shipping guardrails for LLMs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### ⛈️ [lab-ghcp-mcp-stormwatch](https://github.com/Ar1anit/lab-ghcp-mcp-stormwatch)
+Hands-on lab: GitHub Copilot × Model Context Protocol.
+
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 </td>
 </tr>
