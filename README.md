@@ -1,40 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Arianit%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Solution+Architect+%40+Microsoft+%E2%98%81%EF%B8%8F;Building+with+LLMs+%26+Generative+AI+%F0%9F%A4%96;MLOps+%7C+LLM+Guardrails+%7C+RAG+%F0%9F%A7%A0;GitHub+Copilot+%26+MCP+enthusiast+%E2%9A%A1" alt="Typing SVG" /></a>
+<img src="assets/header.svg" width="100%" alt="Pixel-art title screen: HEY, I'M ARIANIT. A dialog box types: Cloud Solution Architect @ Microsoft, building with LLMs & generative AI, MLOps | LLM guardrails | RAG, GitHub Copilot & MCP enthusiast. PRESS START" />
 
 <p>
-  <img src="https://img.shields.io/badge/📍%20Duisburg,%20Germany-1f2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/☁️%20Cloud%20Solution%20Architect%20@%20Microsoft-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/💼%20Open%20to%20opportunities-22c55e?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Ar1anit&style=flat-square&color=36BCF7&label=Profile+views" />
+  <img src="https://img.shields.io/badge/📍%20Duisburg,%20Germany-333c57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️%20Cloud%20Solution%20Architect%20@%20Microsoft-3b5dc9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼%20Open%20to%20opportunities-38b764?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ar1anit&style=for-the-badge&color=b13e53&label=COINS+INSERTED" />
 </p>
+
+<img src="assets/fight.svg" width="100%" alt="Animated pixel-art fight: Arianit vs. the HALLUCINATOR, a rogue LLM robot. It brags 'I'M ALWAYS RIGHT', lobs a '2+2=5' hallucination that bounces off a literal guardrail, eats a RAG UPPERCUT and a 99-hit air juggle, and gets splatted against the FIREWALL. K.O. PERFECT. The robot: 'YOU'RE ABSOLUTELY RIGHT!'" />
 
 </div>
 
----
-
-### 🧑‍💻 About Me
+### <img src="assets/sections/player-1.svg" height="33" alt="PLAYER 1" />
 
 ```yaml
-name: Arianit Sheholli
-role: Cloud Solution Architect @ Microsoft
-location: Duisburg, Germany 🇩🇪
-currently_working_on:
+player: Arianit Sheholli
+class: Cloud Solution Architect @ Microsoft
+home_stage: Duisburg, Germany 🇩🇪
+currently_training:
   - 🧠 Designing LLM & GenAI solutions on Azure
   - 🛡️ LLM guardrails, evaluation & MLOps pipelines
   - 🔎 RAG, agents & Model Context Protocol (MCP)
   - 🤖 GitHub Copilot developer experiences
 interests: [LLMs, Machine Learning, MLOps, AI Agents, Cloud Architecture]
-fun_fact: "I teach AI to write code, then review what it wrote 😄"
+win_quote: "I teach AI to write code, then review what it wrote 😄"
 ```
 
-### 🛠️ Tech Stack
+### <img src="assets/sections/move-list.svg" height="33" alt="MOVE LIST" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,azure,docker,kubernetes,terraform,githubactions,git,linux&perline=12" />
 </p>
+
+| Special move | Command | Effect |
+|:--|:--:|:--|
+| 🛡️ **Guardrail Counter** | `← + K` | Blocks hallucinations & prompt injections before they reach prod |
+| 🔎 **RAG Uppercut** | `↓ ↘ → + P` | Launches answers grounded in your own data |
+| 🤖 **Agent Combo** | `P, P, K` | Plans, calls tools over MCP, ships the result |
+| 🧪 **MLOps Chain** | `→ → + P + K` | Train → evaluate → deploy → monitor, on repeat |
+| ☁️ **Cloud Launcher** | `↓ ↓ ↑ + K` | Azure infrastructure as code with Terraform & GitHub Actions |
+| 🤝 **Copilot Assist** | `P + K` | Pair programming with GitHub Copilot at 2× speed |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -47,13 +54,13 @@ fun_fact: "I teach AI to write code, then review what it wrote 😄"
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
-### 🚀 Featured Projects
+### <img src="assets/sections/stage-select.svg" height="33" alt="STAGE SELECT" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ [llm-guardrail-mlops](https://github.com/Ar1anit/llm-guardrail-mlops)
+#### 🛡️ STAGE 1 · [llm-guardrail-mlops](https://github.com/Ar1anit/llm-guardrail-mlops)
 MLOps workflow for building and shipping guardrails for LLMs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -62,7 +69,7 @@ MLOps workflow for building and shipping guardrails for LLMs.
 </td>
 <td width="50%" valign="top">
 
-#### ⛈️ [lab-ghcp-mcp-stormwatch](https://github.com/Ar1anit/lab-ghcp-mcp-stormwatch)
+#### ⛈️ STAGE 2 · [lab-ghcp-mcp-stormwatch](https://github.com/Ar1anit/lab-ghcp-mcp-stormwatch)
 Hands-on lab: GitHub Copilot × Model Context Protocol.
 
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
@@ -73,7 +80,7 @@ Hands-on lab: GitHub Copilot × Model Context Protocol.
 <tr>
 <td width="50%" valign="top">
 
-#### 🌍 [tf-gha-beginners](https://github.com/Ar1anit/tf-gha-beginners)
+#### 🌍 STAGE 3 · [tf-gha-beginners](https://github.com/Ar1anit/tf-gha-beginners)
 Beginner-friendly Terraform deployments with GitHub Actions.
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -82,7 +89,7 @@ Beginner-friendly Terraform deployments with GitHub Actions.
 </td>
 <td width="50%" valign="top">
 
-#### 🧩 [ghcp-platfrom-repo](https://github.com/Ar1anit/ghcp-platfrom-repo)
+#### 🧩 STAGE 4 · [ghcp-platfrom-repo](https://github.com/Ar1anit/ghcp-platfrom-repo)
 Platform setup and patterns for GitHub Copilot.
 
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
@@ -91,22 +98,19 @@ Platform setup and patterns for GitHub Copilot.
 </tr>
 </table>
 
-### 📊 GitHub Stats
+### <img src="assets/sections/high-scores.svg" height="33" alt="HIGH SCORES" />
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ar1anit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1anit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Ar1anit&theme=tokyonight&hide_border=true" />
+  <img src="assets/high-scores.svg" width="100%" alt="Arcade high-score table with my GitHub stats and most-played languages" />
 </div>
 
-### 🐍 Contribution Activity
+### <img src="assets/sections/combo-meter.svg" height="33" alt="COMBO METER" />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar1anit&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="assets/combo-meter.svg" width="100%" alt="Pixel-art heatmap of my contributions over the last year" />
 </div>
 
-### 🤝 Let's Connect
+### <img src="assets/sections/continue.svg" height="33" alt="CONTINUE?" />
 
 <p align="center">
   <a href="https://github.com/Ar1anit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -114,5 +118,5 @@ Platform setup and patterns for GitHub Copilot.
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="CONTINUE? countdown, then: THANKS FOR PLAYING!" />
 </div>
